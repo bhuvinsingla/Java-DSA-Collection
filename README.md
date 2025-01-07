@@ -18,7 +18,7 @@ I am actively practicing on [LeetCode](https://leetcode.com/u/bhuvinsingla/). Ch
 
 1. Clone this repository:
     ```bash
-    git clone [https://github.com/bhuvinsingla/Java-DSA-Collection.git]
+    git clone https://github.com/bhuvinsingla/Java-DSA-Collection.git
     ```
 
 2. Navigate to the Java file and run it:
